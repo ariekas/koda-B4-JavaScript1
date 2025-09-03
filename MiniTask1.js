@@ -40,7 +40,7 @@ const my = [
       2,
       {
         fruit: {
-          is: "Aplle",
+          is: "Apple",
         },
       },
     ],
